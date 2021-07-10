@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Xatta-Trone&show_icons=true&theme=gotham" alt="Xatta-Trone" />
-  <p align="center"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xatta-Trone&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Xatta-Trone&show_icons=true&theme=gotham" alt="Xatta-Trone" /> </p>
+  <p align="center"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xatta-Trone&theme=dark&hide_border=true)](https://git.io/streak-stats) </p>
   
   
