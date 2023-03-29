@@ -1,4 +1,7 @@
+
 ### Hi there 👋
+
+<img src ="https://gpvc.arturio.dev/xatta-trone">
 
 <!--
 **Xatta-Trone/Xatta-Trone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
