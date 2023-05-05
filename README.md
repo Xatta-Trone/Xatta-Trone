@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on :: GRE SE
 - 🌱 I’m currently learning :: Golang gin framework
 - 👯 I’m looking to collaborate on :: Backend Development
 
