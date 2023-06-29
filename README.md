@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 <img src ="https://gpvc.arturio.dev/xatta-trone">
+![counter](https://enclia9ohaqjeir.m.pipedream.net/)
 <img src ="https://wakatime.com/badge/user/d1378ab1-f4cc-41fa-a902-21598fa7345a.svg">
 
 <!--
