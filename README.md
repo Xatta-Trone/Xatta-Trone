@@ -10,11 +10,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on :: GRE SE
-- 🌱 I’m currently learning :: Golang gin framework
-- 👯 I’m looking to collaborate on :: Backend Development
+- 🔭 I’m currently working on:: Learning Python
+- 🌱 I’m currently learning:: Python
+- 👯 I’m looking to collaborate on:: Backend Development
 
-- 💬 Ask me about :: Laravel, Vue, Flutter
+- 💬 Ask me about:: Laravel, Go, Vue, Flutter, Svelte
 - 📫 How to reach me: monzurul.ce.buet@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-📈 my github stats
+📈 my Github stats
 
 <p align=center>
   <div align=center>
