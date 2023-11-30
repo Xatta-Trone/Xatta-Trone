@@ -45,7 +45,7 @@ I love to watch movies/tv-series and play games.
 - 📫 I am just one mail away - [monzurul.ce.buet@gmail.com]
 - 😄 Pronouns: He, Fat & Happy 😄
 - :partying_face: Fun fact: I love to cook, I love to walk, and meet new people.
-- :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Docker.
+- :wrench: Tools - VSCode, Postman, DBeaver Studio, Markdown Editors, Spotify, Docker.
 
 ### Numbers
 ![Xatta Trone's Stats](https://github-readme-stats.vercel.app/api?username=Xatta-Trone&theme=react&border=61dafb&hide_border=true&count_private=true)
