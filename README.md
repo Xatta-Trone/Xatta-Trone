@@ -35,7 +35,7 @@
 ![WakaTime](https://wakatime.com/badge/user/d1378ab1-f4cc-41fa-a902-21598fa7345a.svg)
 ![WakaTime](https://enclia9ohaqjeir.m.pipedream.net/)
 
-Software Developer with 5+ years of experience with PHP (Laravel), Golang, developing web services, and Android apps. Adaptable professional, recognized by peers for my effective communication and analytical skills. Looking to apply my experience with Application Development and Product Development, opportunities. **I'm open to work and employment opportunities**
+Software Developer with 5+ years of experience with PHP (Laravel), NodeJS, Golang, Web Scrapping, developing web services, and Android apps. Adaptable professional, recognized by peers for my effective communication and analytical skills. Looking to apply my experience with Application Development and Product Development, opportunities. **I'm open to work and employment opportunities**
 
 
 I love to watch movies/tv-series and play games.
